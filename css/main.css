@@ -1,0 +1,37 @@
+.main {
+  padding-top: 75px;
+  font-family: Quicksand, sans-serif;
+}
+
+.theme--dark.v-btn.v-btn--disabled {
+  color: white !important;
+}
+
+.card-padding {
+  padding: 5px !important;
+  margin-bottom: 0 !important;
+  background-color: rgba(10, 10, 10, 0.5); ;
+}
+
+.subheading,
+.footer-year {
+  font-family: Catamaran, sans-serif;
+}
+
+.dg-text {
+  color: #303030 !important;
+  caret-color: #303030 !important;
+}
+
+.dg-icon:hover {
+  color: white !important;
+}
+
+.custom-font {
+  font-size: 17px;
+  font-weight: bold !important;
+}
+
+.dialog-text {
+  padding: 100px;
+}
